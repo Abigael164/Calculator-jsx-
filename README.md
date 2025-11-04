@@ -22,3 +22,10 @@ The handleClick function updates the state based on button clicks:
 - Uses eval() (for simplicity) to calculate expressions  
 - Catches invalid expressions and displays an error  
 
+---
+## Technologies Used
+- React.js
+- JavaScript
+- CSS
+- HTML5
+- Vite
